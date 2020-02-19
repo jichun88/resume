@@ -47,11 +47,13 @@ WORK EXPERIENCE
 
 
 2012.03 ~ 2013.05      싸이킥팩토리           Web Developer
+	
 	웹 퍼블리싱 및 웹플랫폼 아웃소싱 제작(php)
 
 
 
-2011.01 ~ 2012.02    귀티나                  Web Publisher & Marketer   
+2011.01 ~ 2012.02    귀티나                  Web Publisher & Marketer
+	
 	쇼핑몰 스킨 디자인 제작, 마케팅 기획
 
 
