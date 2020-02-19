@@ -1,28 +1,38 @@
 WORK EXPERIENCE
 ----------------------------------------------------
 2018.08   ~2019.08      ㈜AlyceHeathcare / 러너스하이      CTO/팀장
+
 중기청 R&D 사업 관리, 영상기반Joint Point 편집 웹 툴
 RestAPI(Nodejs) 머신러닝 솔루션 동기화 데이터 서버 구축
 
+
+
 2017.08  ~2018.03       ㈜몬스터웍스                  FinTech TeamLeader
+
 Mining Factory Machine(Linux)  배포 자동화 및 웹 대시보드
 ▸ System Monitoring:
 리눅스C++ 클라이언트-> AWS Lamda -> AWSAurora
 ▸ Mining Monitoring:
 Nodejs 데몬 클라이언트(200여개) -> 비동기 실시간 Mining HashRate/GpuTemp 모니터링-> Python Fabric Script를 통한 중앙 컨트롤
 
+
 2017.06 센텀직업전문학교         Lecturer & Consulting
+
    HTML/CSS/Jquery 강의, 교육과정 컨설팅 및 강의
   NCS 과정평가형 평가 대비 기출 문제 제작
   
+  
 2016.07 ~2017.04 러너스하이 CTO
+
   중기청 R&D 사업 관리(사업계획서, 성능평가, 기술문서)
     HTML5를 이용한 증강현실 Kpop 솔루션 개발
   ▸ Html5 Media API / WebGl을 통한 증강현실 솔루션
     플랫폼과 임베디드 연동 플랫폼 기술개발
 ▸ Fitbit API-> Nodejs 서버 통한 실시간 운동량 Tracking
 
+
 2014.06~ 2016.01     ㈜서머너즈엔터테인먼트  CEO / Tech Leader   
+
 - 웹 플랫폼 아웃소싱 증강현실 기술 개발 및 플랫폼
 ▸ KT 기술개발 연구소 ‘UHD 셋탑박스 인터렉티브 컨텐츠
               ; Node Js /WebGL 기반 모바일웹을 통한 TV 실시간
@@ -36,8 +46,12 @@ Texture,3DModel Contents Server 개발
 ▸ 한화,KESCO,주렁주렁,부산시설공단등증강현실프로젝트
 및 웹플랫폼 외주 개발               
 
+
+
 2012.03 ~ 2013.05      싸이킥팩토리           Web Developer
 웹 퍼블리싱 및 웹플랫폼 아웃소싱 제작(php)
+
+
 
 2011.01 ~ 2012.02    귀티나                  Web Publisher & Marketer   
 쇼핑몰 스킨 디자인 제작, 마케팅 기획
