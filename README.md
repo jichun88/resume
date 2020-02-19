@@ -34,8 +34,7 @@ WORK EXPERIENCE
 
 	- 웹 플랫폼 아웃소싱 증강현실 기술 개발 및 플랫폼
 	▸ KT 기술개발 연구소 ‘UHD 셋탑박스 인터렉티브 컨텐츠
-              ; Node Js /WebGL 기반 모바일웹을 통한 TV 실시간
-      그림판 / 3D E-Book 교육 Tool(리모콘 연동)               
+              ; Node Js /WebGL 기반 모바일웹을 통한 TV 실시간 그림판 / 3D E-Book 교육 Tool(리모콘 연동)               
 	▸ 자사의 PaintAR, 쥬라기페인터, RisingBook 증강현실앱 개발
 	▸ PHP 기반 라이선스 Management Server, 이미지
 	Texture,3DModel Contents Server 개발    
