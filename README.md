@@ -30,7 +30,7 @@ WORK EXPERIENCE
 	▸ Fitbit API-> Nodejs 서버 통한 실시간 운동량 Tracking
 
 
-2014.06~ 2016.01     ㈜서머너즈엔터테인먼트  CEO / Tech Leader   
+2013.05~ 2016.01     ㈜서머너즈엔터테인먼트  CEO / Tech Leader   
 
 	- 웹 플랫폼 아웃소싱 증강현실 기술 개발 및 플랫폼
 	▸ KT 기술개발 연구소 ‘UHD 셋탑박스 인터렉티브 컨텐츠
@@ -45,7 +45,7 @@ WORK EXPERIENCE
 
 
 
-2012.03 ~ 2013.05      싸이킥팩토리           Web Developer
+2012.03 ~ 2013.01      싸이킥팩토리           Web Developer
 	
 	웹 퍼블리싱 및 웹플랫폼 아웃소싱 제작(php)
 
